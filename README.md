@@ -1,2 +1,2 @@
-# Counting
-Couting Clock
+# Counting Clock
+This is a simple clock counting library
