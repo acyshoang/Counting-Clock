@@ -1,7 +1,6 @@
 #include <iostream>
 #include <windows.h>
 #include <stdlib.h>
-#include "counting.h"
 
 using namespace std;
 
